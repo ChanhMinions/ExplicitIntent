@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">explicit intent</string>
+    <string name="nhancauhoi">Nhận Câu Hỏi !</string>
+    <string name="traloicauhoi">Trả Lời Câu Hỏi ?</string>
+</resources>
